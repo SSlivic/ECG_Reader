@@ -1,0 +1,10 @@
+ECG- Reader
+
+Na računalniku mora biti instaliran java development kit(jdk).
+
+Program se lahko zažene klikom na ECG-Reader\dist\ECG-Reader.jar
+
+Na osnovi vnetih informacij, program pokaže določeno spremembo na EKG-u, določeno diagnozo in eventualno terapijo za določeno stanje.
+
+Priprava programa je trajala skoraj dve tedni, največ zaradi priprave strokovnega gradiva za program.
+
